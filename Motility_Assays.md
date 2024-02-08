@@ -1,5 +1,7 @@
 Date: 02-01-2024
+
 Rep1
+
 Strain |Plate 1 | Plate 2  | Plate 3 
 --|--|--|-- 
 1100|1.7  | 1.4  |  1.5 
@@ -12,7 +14,9 @@ Strain |Plate 1 | Plate 2  | Plate 3
 
 
 Date: 02-08-2024
+
 Rep 2
+
 Strain |Plate 1 | Plate 2  | Plate 3 
 --|--|--|-- 
 1100|1.5  | 1.4  |  1.5 
