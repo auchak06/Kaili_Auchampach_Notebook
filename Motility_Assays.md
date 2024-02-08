@@ -1,6 +1,6 @@
-Date: 02-01-2024
+### Date: 02-01-2024
 
-Rep1
+#### Rep1
 
 Strain |Plate 1 | Plate 2  | Plate 3 
 --|--|--|-- 
@@ -14,9 +14,9 @@ Strain |Plate 1 | Plate 2  | Plate 3
 
 
 
-###Date: 02-08-2024
+### Date: 02-08-2024
 
-####Rep 2
+#### Rep 2
 
 Strain |Plate 1 | Plate 2  | Plate 3 
 --|--|--|-- 
