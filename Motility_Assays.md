@@ -1,7 +1,7 @@
 Date: 02-08-2024
 
 
-p1 |Plate 1 | Plate 2  | Plate 3 
+Strain |Plate 1 | Plate 2  | Plate 3 
 --|--|--|-- 
 1100|1.5  | 1.4  |  1.5 
 1117| 0.3 |  0.3 | 0.4  
