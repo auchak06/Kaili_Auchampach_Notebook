@@ -5,7 +5,7 @@ File name: 20240215_ProgressiveMauve01_GenomeAlignmentBH1BH2
 Normal parameters
 
 Result: Sucessful; No errors
-### Trial 2: BH2.fna + BW2.fna
+#### Trial 2: BH2.fna + BW2.fna
 File name: 20240215_ProgressiveMauve02_GenomeAlignmentBH2BW2
 
 Normal parameters
