@@ -19,5 +19,7 @@ Normal parameters
 Result:
 
 Genome Alignment BH2 BW2
+
 2022_Eberryi_WGSeq_consensusfnas/BH2.fna
+
 Parameters: fastA
