@@ -7,7 +7,7 @@ culture tube with freshly-streaked V. fischeri ES114 carrying pLostfox (MJM1538)
 2. On the next day, dilute 30 μl of the LBS-Cam2.5 overnight culture into 3 ml of Tris Minimal Media-Cam2.5 
 (TMM-Cam2.5) and grow overnight at 25°C with aeration
 
- _Ensure inoculation is performed at a time where growth-time is maintained between 12-16 h; we find that 
+_Ensure inoculation is performed at a time where growth-time is maintained between 12-16 h; we find that 
 growth past 16 h in TMM frequently results in unsuccessful transformation and integration of the desired 
 construct._
 
