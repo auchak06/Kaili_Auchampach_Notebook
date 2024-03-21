@@ -6,3 +6,4 @@ Before 3/18/24:
    
 3/21/24:
  * Checked DNA by running a gel so it can be sent in for sequencing
+ * Plating squid for Avery: 
