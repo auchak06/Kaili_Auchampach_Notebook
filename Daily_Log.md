@@ -8,3 +8,9 @@ Before 3/18/24:
  * Checked DNA by running a gel so it can be sent in for sequencing
     * PCR was unsuccessful so I restreaked the samples on Erm 5 plates and LBS plates and I made new overnight cultures in Erm 5 broth
  * Plating squid for Avery: Group M3 5.1-5.4, 4.1-4.5
+
+4/9/24:
+ * Checked DNA 
+
+4/11/24:
+ * 
