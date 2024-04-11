@@ -7,7 +7,7 @@
  * Realized we have been using the incorrect primers and have been doing a biofilm deletion instead of a motility deletion. Might have also been using the wrong parent bacteria.
 
 4/9/24:
- * Checked DNA again by running gel to be sent for sequencing
+ * Checked DNA again by running gel so it can be sent for sequencing
       * PCR was successful
 
 3/21/24:
