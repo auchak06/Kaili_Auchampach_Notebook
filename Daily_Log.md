@@ -1,6 +1,6 @@
 #### Daily notes to keep track of progress and keep self organized
 Before 3/18/24:
-  * Have been working with Anna Dickfoss to create an ErmBAR deletion of the motility gene (flora) in _V. Fischeri_
+  * Have been working with Anna Dickfoss to create an ErmBAR deletion of the motility gene (flra) in _V. Fischeri_
       * So far have successfully replaced the motility gene with the ErmBAR using Hector Burgos deletion protocol
       * Currently doing transformation to incorporate ErmBAR back into genomic sequence
    
@@ -15,4 +15,4 @@ Before 3/18/24:
 
 4/11/24:
  * DNA was sent for sequencing
- * Realized that the incorrect 
+ * Realized we have been using the incorrect primers and have been doing a biofilm deletion instead of a motility deletion. Might have also been using the wrong parent bacteria.
