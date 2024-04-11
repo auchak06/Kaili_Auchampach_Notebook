@@ -16,6 +16,6 @@
  * Plating squid for Avery: Group M3 5.1-5.4, 4.1-4.5
 
 Before 3/18/24:
-  * Have been working with Anna Dickfoss to create an ErmBAR deletion of the motility gene (flra) in _V. Fischeri_
+  * Have been working with Anna Dickfoss to create an ErmBAR deletion of the motility gene (flrA) in _V. Fischeri_
       * So far have successfully replaced the motility gene with the ErmBAR using Hector Burgos deletion protocol
       * Currently doing transformation to incorporate ErmBAR back into genomic sequence
