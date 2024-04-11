@@ -1,5 +1,8 @@
 #### Daily notes to keep track of progress and keep self organized
 4/11/24:
+ * Nanodropped samples:
+     * crcS 1: 260/280: 1.82; 260/230: 1.85; ng/μL: 68.0
+     * crcS 2: 260/280: 1.94; 260/230: 2.50; ng/μL: 56.6
  * DNA was sent for sequencing
  * Realized we have been using the incorrect primers and have been doing a biofilm deletion instead of a motility deletion. Might have also been using the wrong parent bacteria.
 
@@ -16,4 +19,3 @@ Before 3/18/24:
   * Have been working with Anna Dickfoss to create an ErmBAR deletion of the motility gene (flra) in _V. Fischeri_
       * So far have successfully replaced the motility gene with the ErmBAR using Hector Burgos deletion protocol
       * Currently doing transformation to incorporate ErmBAR back into genomic sequence
-      * 
