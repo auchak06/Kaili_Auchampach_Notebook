@@ -5,7 +5,19 @@
      * Diluted 1:10 into microtubes for each strain
      * Diluted 1:100 into 96-well plate in grid pattern (total dilution = 1:1000)
      * Grid pattern:
-       
+
+_ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+--|--|--|--|--|--|--|--|--|--|--|--|--
+A||||||||||||
+B||1100||1130||2110||blank||1117||
+C|||1117||1318||3792||1100||1130|
+D|| 1318||3792||1100||1130||2110||
+E|||2110||blank||1117||1318||3792|
+F||blank||1117||1318||3792||||
+G|||1100||1130||2110||blank|||
+H||||||||||||
+
+
  
 4/16/24:
 * Day 1 of luminescence assay: Inoculate and incubated 6 strains in liquid LBS overnight
