@@ -2,8 +2,8 @@
 4/17/24:
 * Day 2 of luminescence assay
      * Sterilized black 96-well plate under UV (20 minutes)
-     * Diluted 1:10 into microtubes for each strain
-     * Diluted 1:100 into 96-well plate in grid pattern (total dilution = 1:1000)
+     * Diluted 1:10 (culture:SWTO) into microtubes for each strain
+     * Diluted 1:100 (culture:SWTO) into 96-well plate in grid pattern (total dilution = 1:1000)
      * Grid pattern:
 
 _ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
