@@ -1,4 +1,16 @@
 #### Daily notes to keep track of progress and keep self organized
+4/17/24:
+* Day 2 of luminescence assay
+     * Sterilized black 96-well plate under UV (20 minutes)
+     * Diluted 1:10 into microtubes for each strain
+     * Diluted 1:100 into 96-well plate in grid pattern (total dilution = 1:1000)
+     * Grid pattern:
+       
+ 
+4/16/24:
+* Day 1 of luminescence assay: Inoculate and incubated 6 strains in liquid LBS overnight
+     * MJM1100, MJM1117, MJM1130, MJM1318, MJM2110, MJM3792
+
 4/11/24:
  * Nanodropped samples:
      * crcS 1: 260/280: 1.82; 260/230: 1.85; ng/μL: 68.0
