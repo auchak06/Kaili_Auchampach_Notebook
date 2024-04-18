@@ -17,7 +17,8 @@ F||blank||1117||1318||3792||||
 G|||1100||1130||2110||blank|||
 H||||||||||||
 
-
+* Day 1 of luminescence assay: Inoculte and incubated 6 strains in liquid LBS overnight
+     * MJM1100, MJM1117, MJM1130, MJM1318, MJM2110, MJM3792
  
 4/16/24:
 * Day 1 of luminescence assay: Inoculate and incubated 6 strains in liquid LBS overnight
