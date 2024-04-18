@@ -1,4 +1,11 @@
 #### Daily notes to keep track of progress and keep self organized
+
+4/18/24
+* Day 2 of luminescence assay
+     * Same exact steps as previous day as well as identical grid pattern
+* Day 1 of spot motility assay
+     * Poured 15% agar TBS plates
+
 4/17/24:
 * Day 2 of luminescence assay
      * Sterilized black 96-well plate under UV (20 minutes)
