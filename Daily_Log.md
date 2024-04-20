@@ -1,9 +1,16 @@
 #### Daily notes to keep track of progress and keep self organized
 
+4/20/24
+* Motility assay day 3
+     * Spot strains (streaks didn't grow very well, very small colonies)
+     * Incubate 5 hours (halos didn't grow as expected; no halo for 1100)
+     * Photograph w/ ruler in frame (camera was not working, couldn't get good pictures, very blurry; took backup photos on phone)
+     * Analyze on FIJI
+
 4/19/24
 * Collected luminescence data
 * Day 2 of motility assay
-     * streaked strains on TBS plates: MJM1100, MJM1117, MJM1130, MJM1318, MJM2110, MJM3792
+     * Streaked strains on TBS plates: MJM1100, MJM1117, MJM1130, MJM1318, MJM2110, MJM3792
      * Poured omnitrays (40ml in each) w/ 3% agar
 
 4/18/24
