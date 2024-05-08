@@ -1,15 +1,16 @@
 #### Daily notes to keep track of progress and keep self organized
 
-5/7/24
-* Plated squid for Avery
-     * E. scolopes monocolonization w/ berryi strains (ES1) Exp 1; Plated groups 1-4
- 
 5/8/24
 * Counted Avery Squid
      * E. scolopes monocolonization w/ berryi strains (ES1) Exp 1; Groups 1-4
 * Plated Avery squid
      * E. berryi noncolonizing mutants M1 and M2; Plated groups (M1): 1-5 and Groups (M2): 2
+     * E. scolopes monocolonization w/ berryi strains (ES1) Exp 1; Plated groups 5 and Apo
 
+5/7/24
+* Plated squid for Avery
+     * E. scolopes monocolonization w/ berryi strains (ES1) Exp 1; Plated groups 1-4
+ 
 4/20/24
 * Motility assay day 3
      * Spot strains (streaks didn't grow very well, very small colonies)
