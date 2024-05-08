@@ -1,5 +1,20 @@
 #### Daily notes to keep track of progress and keep self organized
 
+5/9/24
+* Day 3 of luminescence assay protocol (MJM: 1100, 5769, 7550, 5771, 5772, 5773, 5774, 1296, 1130)
+     * Grid pattern:
+
+_ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+--|--|--|--|--|--|--|--|--|--|--|--|--
+A||||||||||||
+B||1100||1130||2110||blank||1117||
+C|||1117||1318||3792||1100||1130|
+D|| 1318||3792||1100||1130||2110||
+E|||2110||blank||1117||1318||3792|
+F||blank||1117||1318||3792||||
+G|||1100||1130||2110||blank|||
+H||||||||||||
+
 5/8/24
 * Counted Avery Squid
      * E. scolopes monocolonization w/ berryi strains (ES1) Exp 1; Groups 1-4
