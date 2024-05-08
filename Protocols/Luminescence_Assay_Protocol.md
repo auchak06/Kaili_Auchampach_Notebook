@@ -9,7 +9,7 @@
     * 8.766 grams NaCl
     * Fill to 1000 mL with dI H20
 ### Day 2:
-* Inoculate and incubate liquid LBS overnights (n = 6) at 25˚C on rotator for the following strains: MJM1100, MJM1117, MJM1130, MJM1318, MJM2110, MJM3792
+* Inoculate strains and incubate liquid LBS overnights (n = 6) at 25˚C on rotator
 ### Day 3:
 * Measure luminescence and OD600 for each strain in plate reader in triplicate
   * Sterilize black clear-bottom 96-well plate under UV light in sterile hood for at least 20 minutes, then put sterile lid on.
