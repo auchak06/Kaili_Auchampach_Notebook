@@ -1,5 +1,8 @@
 #### Daily notes to keep track of progress and keep self organized
 
+5/10/24
+* Avery squid counts (Groups 72-77 + Apo and the replated M1 Group1 + M3 Group 2)
+
 5/9/24
 * Avery squid counts (E. berryi noncolonizing mutants):
      * M1:
