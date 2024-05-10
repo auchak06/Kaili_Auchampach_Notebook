@@ -33,6 +33,8 @@ _ | A | B  | C
 2.3|LAWN|LAWN|
 
 * Day 3 of luminescence assay protocol (MJM: 1100, 5769, 7550, 5771, 5772, 5773, 5774, 1296, 1130)
+     * Diluted each strain 1:1000 in STWO (20ml culture into 180ml STWO in tubes then 2ml mixture into 198ml STWO into wells)
+     * For machine setup used saved program 2024-04-17-KA_1; *machine wouldn't cool down so started at 28.2°C*
      * Grid pattern:
 
 _ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
