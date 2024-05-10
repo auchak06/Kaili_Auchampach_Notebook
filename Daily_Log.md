@@ -52,6 +52,7 @@ H||||||||||||
 
 * Avery squid count (E. scolopes monocolonizing w/ berryi strains; Exp1)
      * ES1:
+
 5.1A: 3,3
 
 5.2A: 1,0
