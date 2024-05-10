@@ -1,6 +1,37 @@
 #### Daily notes to keep track of progress and keep self organized
 
 5/9/24
+* Avery squid counts (E. berryi noncolonizing mutants):
+     * M1:
+
+_ | A | B  | C
+--|--|--|--
+1.1|LAWN||
+1.2|LAWN||
+1.3|LAWN||
+1.4|LAWN||
+2.1||0,0|0,0
+2.2||0,0|0,0
+2.3||-|55,48
+2.4||-|57,53
+3.1|0C,0C|0,0C|0,0
+3.2|2C,0C|0,0|0,0
+3.3|0C,0C|0,0|0,0
+3.4|0C,0C|0,0|0,0
+4.1|8,12||
+4.2|0,0||
+4.3|Contam can't count||
+4.4|50C,44C||
+5.1|0C,2C||
+5.2|0,3||
+
+     * M3:
+_ | A | B  | C 
+--|--|--|--
+2.1|LAWN|416,485|
+2.2|LAWN|LAWN|
+2.3|LAWN|LAWN|
+
 * Day 3 of luminescence assay protocol (MJM: 1100, 5769, 7550, 5771, 5772, 5773, 5774, 1296, 1130)
      * Grid pattern:
 
