@@ -25,12 +25,14 @@ _ | A | B  | C
 5.1|0C,2C||
 5.2|0,3||
 
+* 
      * M3:
-_ | A | B  | C 
---|--|--|--
-2.1|LAWN|416,485|
-2.2|LAWN|LAWN|
-2.3|LAWN|LAWN|
+
+_ | A | B 
+--|--|--
+2.1|LAWN|416,485
+2.2|LAWN|LAWN
+2.3|LAWN|LAWN
 
 * Day 3 of luminescence assay protocol (MJM: 1100, 5769, 7550, 5771, 5772, 5773, 5774, 1296, 1130)
      * Diluted each strain 1:1000 in STWO (20ml culture into 180ml STWO in tubes then 2ml mixture into 198ml STWO into wells)
@@ -47,6 +49,28 @@ E|||5771||5772||5772||5773||5773|
 F||5774||5774||1296||1296||1130||
 G|||5774||blank||1296||1130||1130|
 H||||||||||||
+
+* Avery squid count (E. scolopes monocolonizing w/ berryi strains; Exp1)
+     * ES1:
+5.1A: 3,3
+
+5.2A: 1,0
+
+5.3A: 3,2
+
+5.4A: 30,40
+
+5.5A: 183,434
+
+Apo1: 0,0
+
+Apo2: 0,0
+
+Apo3: 0,0
+
+* Plate Avery squid (Scolopes monocolonizing)
+     * Groups 72-77 + Apo
+ * Replated M1 Group1 + M3 Group 2
 
 5/8/24
 * Counted Avery Squid
