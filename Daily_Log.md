@@ -75,6 +75,29 @@ Apo3: 0,0
 5/8/24
 * Counted Avery Squid
      * E. scolopes monocolonization w/ berryi strains (ES1) Exp 1; Groups 1-4
+
+-|A|B|C
+--|--|--|--
+1.1||473|18,22
+1.2|||52,43
+1.3|||92,89
+1.4|||38,39
+2.1||22C,16|1,0
+2.2||221,226|17,13
+2.3|||58,45
+2.4||213,244|9,15
+2.5||319,222|14,16
+3.1|19,22||
+3.2|11,4||
+3.3|41,38||
+3.4|15,17||
+3.5|29,27||
+4.1|||49,23
+4.2|||30,27
+4.3||241,259|16,11
+4.4|||79,80
+4.5||270,233|23,19
+
 * Plated Avery squid
      * E. berryi noncolonizing mutants M1 and M2; Plated groups (M1): 1-5 and Groups (M2): 2
      * E. scolopes monocolonization w/ berryi strains (ES1) Exp 1; Plated groups 5 and Apo
