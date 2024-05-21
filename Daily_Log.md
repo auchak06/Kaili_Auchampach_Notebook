@@ -1,5 +1,9 @@
 #### Daily notes to keep track of progress and keep self organized
 
+5/21/24
+* Luminescence assay protocol day 2
+     * Inoculated strains MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130 in 3 ml of LBS
+
 5/10/24
 * Avery squid counts (Groups 72-77 + Apo and the replated M1 Group1 + M3 Group 2)
 
