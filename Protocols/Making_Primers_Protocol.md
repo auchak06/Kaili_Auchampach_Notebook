@@ -1,3 +1,5 @@
+### Making Primers
+
 1. Create a new Benchling file with your gene of interest and about 2kB on either side
 2. Go approximately 1kB upstream from the beginning of your gene
     * Take into consideration the direction of your gene
