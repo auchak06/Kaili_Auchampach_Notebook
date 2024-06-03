@@ -1,5 +1,8 @@
 #### Daily notes to keep track of progress and keep self organized
 
+6/3/2024
+* Make primers with Avery
+
 5/22/24
 * No correct fitting lids for 96 well plate so can't complete luminescence assay
 
