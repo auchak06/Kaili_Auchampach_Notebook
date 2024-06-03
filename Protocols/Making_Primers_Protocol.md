@@ -20,7 +20,7 @@
       * This must only include the start codon, and no more of the gene
       * This primer should be facing away from your gene, towards the F1 primer
       * Once you have your primer, select the Left Linker sequence for the Erm-bar-scar genome and add it to the 5' end of you primer
-      * Make sure you select the correct compelement (either the actual complement or the reverse), if the primer faces int he reverse direction you will use the reverse complement and vice versa
+      * Make sure you select the correct complement (either the actual complement or the reverse), if the primer faces int he reverse direction you will use the reverse complement and vice versa
       * This is your R1 primer
 13. At the end of your gene, select the last six amino acids not including the stop codon (or more if needed NOT LESS) and repeat steps 3-8
       * Select the Right Linker sequence of the Erm-bar-scar genome and add it to the 5' end of your primer
