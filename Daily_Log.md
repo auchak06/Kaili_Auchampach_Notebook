@@ -1,6 +1,9 @@
 #### Daily notes to keep track of progress and keep self organized
 
-6/3/2024
+6/4/24
+* Day two of motility assay protocol (strains MJM:
+
+6/3/24
 * Day one of motility assay protocol
 
 5/22/24
