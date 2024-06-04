@@ -1,7 +1,7 @@
 #### Daily notes to keep track of progress and keep self organized
 
 6/4/24
-* Day two of motility assay protocol (strains MJM:
+* Day two of motility assay protocol (strains MJM: 1100, 1130, 1117, 1128, 1324, 2110, 3031, 3782)
 
 6/3/24
 * Day one of motility assay protocol
