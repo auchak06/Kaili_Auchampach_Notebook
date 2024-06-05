@@ -25,4 +25,4 @@
     * Can check and photograph every hour after hour 2 to measure motility over time (did not here)
 * Analyze in ImageJ to measure migration
   * Set scale using ruler lines to 10 mm
-  * Measure diameter of spots from edge to edge of visible halo (edited) 
+  * Measure diameter of spots from edge to edge of visible halo (edited)
