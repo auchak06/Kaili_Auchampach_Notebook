@@ -1,4 +1,4 @@
-##### Daily notes to keep track of progress and keep self organized
+#### Daily notes to keep track of progress and keep self organized
 
 General strain list for future experiment plotting:
 * Group A: ES213, MB13B2, MB11B1, KB2B1, ESM429
