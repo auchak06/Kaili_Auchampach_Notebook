@@ -2,7 +2,7 @@
 
 6/5/2024
 * Day three of motility assay protocol (strains MJM: 1100, 1117, 1130, 1128, 1324, 2110, 3031, 3782)
-     * All 8 strains on one 
+     * All 8 strains on one plate; 4 technical replicates
 
 6/4/24
 * Day two of motility assay protocol (strains MJM: 1100, 1130, 1117, 1128, 1324, 2110, 3031, 3782)
