@@ -4,6 +4,7 @@ General strain list for future experiment plotting:
 * Group A: ES213, MB13B2, MB11B1, KB2B1, ESM429
 * Group B (close to A): MB14A3, MB14A5, FQ_A001
 * Group B (classic): ES114, ES401
+* Nonmotile control: MJM3782 (ES114∆flrA)
 
 #### 6/5/2024
 * Day three of motility assay protocol (strains MJM: 1100, 1117, 1130, 1128, 1324, 2110, 3031, 3782)
