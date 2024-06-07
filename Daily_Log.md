@@ -10,7 +10,7 @@ General strain list for future experiment plotting:
 * Motility assay analysis (MJM: 1100, 1117, 1130, 1128, 1324, 2110, 3031, 3782)
      * Measured in mm:
  
-_ |Strain |P1 | P2  | P3| P4
+MJM |Strain |P1 | P2  | P3| P4
 --|--|--|--|--|--
 1100|ES114|16.12|18.76|18.57|6.83
 1117|ES213|4.57|5.35|5.24|4.30
