@@ -7,6 +7,7 @@ General strain list for future experiment plotting:
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
 #### 6/11/24
+* Motility assay protocol day 1
 * Make primers:
 
 #### 6/7/24
