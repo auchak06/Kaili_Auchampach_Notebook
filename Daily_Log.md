@@ -6,6 +6,9 @@ General strain list for future experiment plotting:
 * Group B (classic): ES114, ES401
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
+#### 6/11/24
+* Make primers:
+
 #### 6/7/24
 * Motility assay analysis (MJM: 1100, 1117, 1130, 1128, 1324, 2110, 3031, 3782)
      * Measured in mm:
