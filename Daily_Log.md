@@ -22,6 +22,9 @@ H||||||||||||
 
 * 
      * KA protocol
+ 
+* Luminescence assay day 2 (MJM: 1100, 5775, 5776, 5777, 5778, 5779, 1296, 1130)
+* Created and ordered primers for MB14A3 and FQ-A001
 
 #### 6/11/24
 * Luminescence assay protocol day 2 (MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130)
