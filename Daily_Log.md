@@ -6,9 +6,25 @@ General strain list for future experiment plotting:
 * Group B (classic): ES114, ES401
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
+#### 6/12/24
+* Luminescence assay protocol day 3 (MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130)
+
+_ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+--|--|--|--|--|--|--|--|--|--|--|--|--
+A||||||||||||
+B||1100||1100||5769||5769||5770||
+C|||1100||blank||5769||5770||5770|
+D||5771||5771||5772||blank||5773||
+E|||5771||5772||5772||5773||5773|
+F||5774||5774||1296||1296||1130||
+G|||5774||blank||1296||1130||1130|
+H||||||||||||
+     * KA protocol
+
+
 #### 6/11/24
-* Motility assay protocol day 1
-* Make primers:
+* Luminescence assay protocol day 2 (MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130)
+* Mauve trials to verify rscS segment in FG-A001 and MB14A3
 
 #### 6/7/24
 * Motility assay analysis (MJM: 1100, 1117, 1130, 1128, 1324, 2110, 3031, 3782)
