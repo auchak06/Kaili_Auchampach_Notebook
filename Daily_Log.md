@@ -21,6 +21,8 @@ F||1296||1296||1130||1130||||
 G|||1296||blank||1130|||||
 H||||||||||||
 
+* Luminescence assay (MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130) results: didn't finish, only ran for 6 hours becuase Lum-15 read was too high. If same strains are done again, DON'T INCLUDE Lum-150 READ!! Results in 20240613_LuminescenceData
+
 #### 6/12/24
 * Luminescence assay protocol day 3 (MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130)
 
