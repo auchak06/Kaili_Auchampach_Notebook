@@ -6,6 +6,21 @@ General strain list for future experiment plotting:
 * Group B (classic): ES114, ES401
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
+#### 6/13/24
+* Luminescence assay day 3 (MJM: 1100, 5775, 5776, 5777, 5778, 5779, 1296, 1130)
+     * Setup: KA protocol w/o Lum-150 read
+
+_ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+--|--|--|--|--|--|--|--|--|--|--|--|--
+A||||||||||||
+B||1100||1100||5775||5775||5776||
+C|||1100||blank||5775||5776||5776|
+D||5777||5777||5778||blank||5779||
+E|||5777||5778||5778||5779||5779|
+F||1296||1296||1130||1130||||
+G|||1296||blank||1130|||||
+H||||||||||||
+
 #### 6/12/24
 * Luminescence assay protocol day 3 (MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130)
 
