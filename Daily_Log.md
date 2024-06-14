@@ -8,7 +8,7 @@ General strain list for future experiment plotting:
 
 #### 6/13/24
 * Luminescence assay day 3 (MJM: 1100, 5775, 5776, 5777, 5778, 5779, 1296, 1130)
-     * Protocol:
+     * Protocol: 25C_24Hr-GrowthCurve_Read-Lum100-and-OD600-Every-15min
 
 _ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
 --|--|--|--|--|--|--|--|--|--|--|--|--
@@ -26,7 +26,7 @@ H||||||||||||
 
 #### 6/12/24
 * Luminescence assay protocol day 3 (MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130)
-     * Protocol: 
+     * Protocol: 25C_24hr-GrowthCurve_Read-Lum-and-DO600-Every-15min
 
 _ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
 --|--|--|--|--|--|--|--|--|--|--|--|--
@@ -119,7 +119,7 @@ _ | A | B
 
 * Day 3 of luminescence assay protocol (MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130)
      * Diluted each strain 1:1000 in STWO (20ml culture into 180ml STWO in tubes then 2ml mixture into 198ml STWO into wells)
-     * For machine setup used saved program: ; *machine wouldn't cool down so started at 28.2°C*
+     * For machine setup used saved protocol: 25C_24hr-GrowthCurve_Read-Lum-and-DO600-Every-15min ; *machine wouldn't cool down so started at 28.2°C*
      * Grid pattern:
 
 _ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
@@ -216,7 +216,7 @@ Apo3: 0,0
      * Sterilized black 96-well plate under UV (20 minutes)
      * Diluted 1:10 (culture:SWTO) into microtubes for each strain
      * Diluted 1:100 (culture:SWTO) into 96-well plate in grid pattern (total dilution = 1:1000)
-     * Protocol:
+     * Protocol: 25C_24hr-GrowthCurve_Read-Lum-and-DO600-Every-15min
      * Grid pattern:
 
 _ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
