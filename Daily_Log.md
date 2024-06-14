@@ -8,7 +8,7 @@ General strain list for future experiment plotting:
 
 #### 6/13/24
 * Luminescence assay day 3 (MJM: 1100, 5775, 5776, 5777, 5778, 5779, 1296, 1130)
-     * Setup: KA protocol w/o Lum-150 read
+     * Protocol:
 
 _ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
 --|--|--|--|--|--|--|--|--|--|--|--|--
@@ -21,12 +21,12 @@ F||1296||1296||1130||1130||||
 G|||1296||blank||1130|||||
 H||||||||||||
 
-Created a new protocol
 
-* Luminescence assay (MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130) results: didn't finish, only ran for 6 hours becuase Lum-15 read was too high. If same strains are done again, DON'T INCLUDE Lum-150 READ!! Results in 20240613_LuminescenceData
+* Luminescence assay (MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130) results: didn't finish, only ran for 6 hours becuase Lum-150 read was too high. If same strains are done again, DON'T INCLUDE Lum-150 READ!! Results in 20240613_LuminescenceData
 
 #### 6/12/24
 * Luminescence assay protocol day 3 (MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130)
+     * Protocol: 
 
 _ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
 --|--|--|--|--|--|--|--|--|--|--|--|--
@@ -39,8 +39,7 @@ F||5774||5774||1296||1296||1130||
 G|||5774||blank||1296||1130||1130|
 H||||||||||||
 
-* 
-     * KA protocol
+
  
 * Luminescence assay day 2 (MJM: 1100, 5775, 5776, 5777, 5778, 5779, 1296, 1130)
 * Created and ordered primers for MB14A3 and FQ-A001
@@ -120,7 +119,7 @@ _ | A | B
 
 * Day 3 of luminescence assay protocol (MJM: 1100, 5769, 5770, 5771, 5772, 5773, 5774, 1296, 1130)
      * Diluted each strain 1:1000 in STWO (20ml culture into 180ml STWO in tubes then 2ml mixture into 198ml STWO into wells)
-     * For machine setup used saved program 2024-04-17-KA_1; *machine wouldn't cool down so started at 28.2°C*
+     * For machine setup used saved program: ; *machine wouldn't cool down so started at 28.2°C*
      * Grid pattern:
 
 _ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
@@ -207,16 +206,17 @@ Apo3: 0,0
      * Poured omnitrays (40ml in each) w/ 3% agar
 
 #### 4/18/24
-* Day 2 of luminescence assay
+* Day 3 of luminescence assay
      * Same exact steps as previous day as well as identical grid pattern
 * Day 1 of spot motility assay
      * Poured 15% agar TBS plates
 
 #### 4/17/24:
-* Day 2 of luminescence assay
+* Day 3 of luminescence assay
      * Sterilized black 96-well plate under UV (20 minutes)
      * Diluted 1:10 (culture:SWTO) into microtubes for each strain
      * Diluted 1:100 (culture:SWTO) into 96-well plate in grid pattern (total dilution = 1:1000)
+     * Protocol:
      * Grid pattern:
 
 _ | 1 | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
@@ -230,11 +230,11 @@ F||blank||1117||1318||3792||||
 G|||1100||1130||2110||blank|||
 H||||||||||||
 
-* Day 1 of luminescence assay: Inoculte and incubated 6 strains in liquid LBS overnight
+* Day 2 of luminescence assay: Inoculte and incubated 6 strains in liquid LBS overnight
      * MJM1100, MJM1117, MJM1130, MJM1318, MJM2110, MJM3792
  
 #### 4/16/24:
-* Day 1 of luminescence assay: Inoculate and incubated 6 strains in liquid LBS overnight
+* Day 2 of luminescence assay: Inoculate and incubated 6 strains in liquid LBS overnight
      * MJM1100, MJM1117, MJM1130, MJM1318, MJM2110, MJM3792
 
 #### 4/11/24:
