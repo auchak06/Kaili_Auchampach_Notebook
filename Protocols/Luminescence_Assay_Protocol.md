@@ -13,7 +13,7 @@
 ### Day 3:
 * Measure luminescence and OD600 for each strain in plate reader in triplicate
   * Sterilize black clear-bottom 96-well plate under UV light in sterile hood for at least 20 minutes, then put sterile lid on.
-  * In sterile black clear-bottom 96-well plate, create a 1:1000 dilution in triplicate for each strain. Create a checkerboard pattern of strains to minimize luminescence interference between wells.
+  * In sterile black clear-bottom 96-well plate, create a 1:1000 dilution in triplicate for each strain (20ml culture into 180 ml STWO; 2ml mixture into 198 STWO). Create a checkerboard pattern of strains to minimize luminescence interference between wells.
   * Plate protocol: every 30 minutes for 24 hours: shake plate for 10 seconds, measure luminescence (RLU-100), shake plate for 10 seconds, measure luminescence (RLU-150), shake plate for 10 seconds, measure OD600.
   * Data and analysis found in:
 * Analysis:
