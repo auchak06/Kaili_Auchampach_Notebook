@@ -6,6 +6,18 @@ General strain list for future experiment plotting:
 * Group B (classic): ES114, ES401
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
+#### 6/18/24
+Goals:
+* GDNA Extraction
+* Nanodrop
+* Qbit (goal: 5ng/ml)
+* PCR
+* Run gel
+     * DNA purification
+
+#### 6/17/24
+* Avery is starting 4 overnights: 1130 (mine) + 3 for her
+
 #### 6/14/24
 * Got data from Luminescence assay (1100, 5775, 5776, 5777, 5778, 5779, 1296, 1130) in 20240614_Lum100-Assay
 
