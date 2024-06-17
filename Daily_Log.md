@@ -6,6 +6,9 @@ General strain list for future experiment plotting:
 * Group B (classic): ES114, ES401
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
+#### 6/14/24
+* Got data from Luminescence assay (1100, 5775, 5776, 5777, 5778, 5779, 1296, 1130) in 20240614_Lum100-Assay
+
 #### 6/13/24
 * Luminescence assay day 3 (MJM: 1100, 5775, 5776, 5777, 5778, 5779, 1296, 1130)
      * Protocol: 25C_24Hr-GrowthCurve_Read-Lum100-and-OD600-Every-15min
