@@ -12,7 +12,7 @@ Goals:
 * *Nanodrop ✔*
 * *Qbit  (DID NOT END UP DOING QBIT)*
 * *PCR ✔*
-* *Run gel*
+* *Run gel* 
      * *DNA purification*
  
 * GDNA Extraction
@@ -48,6 +48,9 @@ _ | ng/uL | 260/280  | 260/230
 * Run gel
      * Follow instructions to make gel; ADD EtBr AFTER MICROWAVING!!
      * Don't forget space for ladder
+     * 1uL dye + 5uL DNA = 6uL into each well
+     * 4uL of ladder (1kb ladder)
+     * 100 v for 20 min on small gel
 
 #### 6/17/24
 * Avery is starting 4 overnights: 1130 (mine) + 3 for her
