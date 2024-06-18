@@ -12,8 +12,8 @@ Goals:
 * *Nanodrop ✔*
 * *Qbit  (DID NOT END UP DOING QBIT)*
 * *PCR ✔*
-* *Run gel* 
-     * *DNA purification*
+* *Run gel ✔* 
+     * *DNA purification (doing tomorrow)*
  
 * GDNA Extraction
      * Follow steps on laminated instructions
