@@ -14,6 +14,7 @@ Goals:
 * PCR ✔
 * Run gel
      * DNA purification
+
  
 * GDNA Extraction
      * Follow steps on laminated instructions
