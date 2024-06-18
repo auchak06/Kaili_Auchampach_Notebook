@@ -8,12 +8,42 @@ General strain list for future experiment plotting:
 
 #### 6/18/24
 Goals:
-* GDNA Extraction
-* Nanodrop
-* Qbit (goal: 5ng/ml)
-* PCR
+* GDNA Extraction ✔
+* Nanodrop ✔
+* Qbit (goal: 5ng/ml)  did not end up doing Qbit
+* PCR ✔
 * Run gel
      * DNA purification
+ 
+* GDNA Extraction
+     * Follow steps on laminated instructions
+     * Make sure all liquid is down in collection tube after each centrifuge
+* Nanodrop
+     * Bring DNA samples, something to write on, p10 + tips, NF water, and AE buffer
+     * Start w/ NF blank and AE blank (1uL)
+     * Mix to resuspend DNA before measuring (1uL, 2uL if being difficult)
+     * Look for good curve, ng/uL, 260/280, and 260/230
+
+_ | ng/uL | 260/280  | 260/230 
+--|--|--|--
+1130|1088|2.17|2.51
+1324|287.1|2.01|0.82
+2110|260.8|1.98|0.74
+3031|414.8|1.78|1.08
+
+* PCR
+     * Calculate to get 10ng/uL in new tubes
+     * Add all ingredients
+     * Each MM should have 2 primers
+     * Keep phusion polymerase in freezer until use
+     * Vortex lightly
+     * Add MM to blanks before adding DNA then add DNA to fill the rest
+     * Centrifuge before putting in PCR machine and make sure lids are on tight
+     * Setup:
+ 
+1130 US - | 1130 DS - | 1324 US -  | 1324 DS - |1130 US|1130 DS|1324 US|1324 DS
+--|--|--|--|--|--|--|--
+2110 US -|2110 DS -|3031 US -|3031 DS -|2110 US|2110 DS|3031 US|3031 DS
 
 #### 6/17/24
 * Avery is starting 4 overnights: 1130 (mine) + 3 for her
