@@ -39,6 +39,7 @@ _ | ng/uL | 260/280  | 260/230
      * Vortex lightly
      * Add MM to blanks before adding DNA then add DNA to fill the rest
      * Centrifuge before putting in PCR machine and make sure lids are on tight
+     * We did a procotol with a 10 second extension instead of 30 which messed up the gel results
      * Setup:
  
 1130 US - | 1130 DS - | 1324 US -  | 1324 DS - |1130 US|1130 DS|1324 US|1324 DS
@@ -51,6 +52,9 @@ _ | ng/uL | 260/280  | 260/230
      * 1uL dye + 5uL DNA = 6uL into each well
      * 4uL of ladder (1kb ladder)
      * 100 v for 20 min on small gel
+     * 1130 was successful, the other strains were not
+ 
+Tomorrow Avery is going to redo the PCR with a 30 second extension
 
 #### 6/17/24
 * Avery is starting 4 overnights: 1130 (mine) + 3 for her
