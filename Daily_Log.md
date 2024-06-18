@@ -10,7 +10,7 @@ General strain list for future experiment plotting:
 Goals:
 * GDNA Extraction ✔
 * Nanodrop ✔
-* Qbit (goal: 5ng/ml)  did not end up doing Qbit
+* Qbit (goal: 5ng/ml)  *did not end up doing Qbit*
 * PCR ✔
 * Run gel
      * DNA purification
