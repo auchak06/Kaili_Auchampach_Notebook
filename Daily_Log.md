@@ -45,6 +45,10 @@ _ | ng/uL | 260/280  | 260/230
 --|--|--|--|--|--|--|--
 2110 US -|2110 DS -|3031 US -|3031 DS -|2110 US|2110 DS|3031 US|3031 DS
 
+* Run gel
+     * Follow instructions to make gel; ADD EtBr AFTER MICROWAVING!!
+     * Don't forget space for ladder
+
 #### 6/17/24
 * Avery is starting 4 overnights: 1130 (mine) + 3 for her
 
