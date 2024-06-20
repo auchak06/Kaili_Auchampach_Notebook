@@ -6,6 +6,9 @@ General strain list for future experiment plotting:
 * Group B (classic): ES114, ES401
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
+#### 6/20/24
+* DNA purification from PCR
+
 #### 6/18/24
 Goals:
 * *GDNA Extraction ✔*
