@@ -6,6 +6,24 @@ General strain list for future experiment plotting:
 * Group B (classic): ES114, ES401
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
+#### 6/26/24
+* Purification
+* Nano drop:
+
+_ | ng/uL | 260/280  | 260/230 
+--|--|--|--
+1130 us|24.2|1.97|1.83
+1130 ds|15.7|2.28|1.47
+1324 us|20.8|1.95|3.03
+1324 ds|21.8|1.90|2.29
+2110 us|16.5|1.90|2.29
+2110 ds|17.8|1.91|2.10
+3031 us|9.6|1.92|3.36
+3031 ds|13.3|2.13|2.23
+
+#### 6/25/24
+* 
+
 #### 6/21/24
 
 #### 6/18/24
