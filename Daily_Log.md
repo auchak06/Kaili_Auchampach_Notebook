@@ -21,10 +21,8 @@ _ | ng/uL | 260/280  | 260/230
 3031 us|9.6|1.92|3.36
 3031 ds|13.3|2.13|2.23
 
-#### 6/25/24
-* 
-
-#### 6/21/24
+#### 6/24/24
+* Redid 3031 US PCR + ran gel
 
 #### 6/18/24
 Goals:
@@ -33,7 +31,7 @@ Goals:
 * *Qbit  (DID NOT END UP DOING QBIT)*
 * *PCR ✔*
 * *Run gel ✔* 
-     * *DNA purification (doing tomorrow)*
+     * *DNA purification*
  
 * GDNA Extraction
      * Follow steps on laminated instructions
