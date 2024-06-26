@@ -52,15 +52,15 @@ _ | ng/uL | 260/280  | 260/230
 * PCR
      * Calculate to get 10ng/uL in new tubes
      * Add all ingredients (2 MM):
-     * 28.5ul H2O
-     * 15ul Physion HF buffer
-     * 2.25ul DMSO
-     * 1.5ul dNTPs
-     * 3ul AMI010 (upstream MM1)
-     * 3ul AMI011 (upstream MM2)
-     * 3ul AMI014 (downstream MM1)
-     * 3ul AMI015 (downstream MM2)
-     * 0.75ul Phusion polymerase (always add last)
+     * *28.5ul H2O*
+     * *15ul Physion HF buffer*
+     * *2.25ul DMSO*
+     * *1.5ul dNTPs*
+     * *3ul AMI010 (upstream MM1)*
+     * *3ul AMI011 (upstream MM2)*
+     * *3ul AMI014 (downstream MM1)*
+     * *3ul AMI015 (downstream MM2)*
+     * *0.75ul Phusion polymerase (always add last)*
      * Each MM should have 2 primers
      * Keep phusion polymerase in freezer until use
      * Vortex lightly
