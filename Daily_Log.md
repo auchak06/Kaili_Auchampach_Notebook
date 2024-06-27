@@ -17,7 +17,7 @@ NF H20 | 9.25µL | 37µL
 dNTPs | 2µL | 8µL
 DMSO | 1.5µL | 6µL
 Phusion Polymerase | 0.25µL | 4µL
-erm-bar DNA | 1µL | 1µL
+erm-bar DNA | 1µL | 4µL
 
 * Add 1µL each of Left Linker and Right Linker to pcr tubes, and 2µL each of F1 primer and R2 primer
 
@@ -25,6 +25,11 @@ Sample| Primers
 ---------|-------
 1130 | AMI_010, AMI_015
 3031 | AMI_18, AMI_23 
+
+* Run gel:
+
+Ladder | Blank | 1130 | 3031
+--|--|--|--
 
 #### 6/26/24
 * Purification
