@@ -6,6 +6,26 @@ General strain list for future experiment plotting:
 * Group B (classic): ES114, ES401
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
+#### 6/27/24
+* Redoing SOE PCR w/ 1130 and 3031
+* MM Ingredients
+
+Reagent | Volume | x4 Reactions
+---------|------- |-------------
+Phusion HF Buffer| 5µL | 20µL
+NF H20 | 9.25µL | 37µL
+dNTPs | 2µL | 8µL
+DMSO | 1.5µL | 6µL
+Phusion Polymerase | 0.25µL | 4µL
+erm-bar DNA | 1µL | 1µL
+
+* Add 1µL each of Left Linker and Right Linker to pcr tubes, and 2µL each of F1 primer and R2 primer
+
+Sample| Primers 
+---------|-------
+1130 | AMI_010, AMI_015
+3031 | AMI_18, AMI_23 
+
 #### 6/26/24
 * Purification
 * Nano drop:
