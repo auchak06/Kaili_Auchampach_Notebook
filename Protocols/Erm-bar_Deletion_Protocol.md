@@ -66,3 +66,22 @@ Hold|<12|Indefinitely|
 Running gel:
 * Visualize in gel electrophoresis and purify amplified mutant DNA using QIAquick PCR purification
 * Determine concentration is at least 10 ng/uL DNA using nanodrop and qubit and store at -20˚C
+
+### *tfoX*-induced transformation of Mut DNA into *V. fischeri* to generage gene::erm-bar strain
+* Inoculate 3 mL of liquid LBS-Cam2.5 with *V. fischeri* host strains carrying pLostfox overnight at 25˚C
+* Dilute 30 uL of LBS-Cam2.5 overnight culture into 3 mL of Tris Minimal Media-Cam2.5 and grow at 25˚C
+  * Note: inoculations should go 12-16 hours. Over 16 hours causes issues
+* Subculture 150 uL fro the previous overnight into 3 mL of the same, fresh media and grow at 25˚C until OD600 reaches 0.2-0.3
+  * Transfer 500 uL of culture into 1.7 mL tube
+  * Add ~100 ng of Mut DNA
+  * Incubate statically at room temp for 30 min to 1 hour
+  * Add 1 mL of LBS, then transfer whole volume to culture tube
+  * Grow overnight at 25˚C with aeration
+* Plate 100 uL of undiluted and 10^-1 dilutions of transformation reactions onto LBS-ERM5 plates and incubate overnight at 25˚C
+* Streak out 4 candidates onto LBS-ERM5 plates and incubate overnight at 25˚C
+* Pick a single colony from each candidate and patch (in order) onto LBS-ERM5, LBS-CAM2.5, and LBS, and inoculate 3 mL of LBS-Erm5 and incubate overnight at 25˚C
+  * This tests antibiotic resistance: all should be ERM-R but CAM-S, all should grow in LBS
+* Patch candidat3es (max of 3) with desired phenotype (ERM-R and CAM-S)
+  * Freeze temp glycerol stocks of deired candidates: transfer 1.2 mL of LBS-ERM5 culture into sterile red-cap cryovial containing 600 uL of 50% glycerol and freeze at -80˚C
+* Harvest 1:10 dilutions of LBS-ERM5 cultures by transferring 2 uL of culture into PCR striptubes with 18 uL of water at -20˚C
+  * Use these 1:10 dilutions as template for screen PCR
