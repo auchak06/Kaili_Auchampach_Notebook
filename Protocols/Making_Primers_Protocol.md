@@ -30,6 +30,7 @@
       * Both R1 and F2 primers will be facing away from the gene
 15. Go about 1kB away from the end of you gene, and make one more primer repeating steps 3-8
       * This is your R2 primer
-16. Go 500bp away (further from gene) from the primer you just made, repeat steps 3-8       * This is your R0 primer
-17. Finally make two more primers (one forward and one reverse) that will make a product of about 500bp in the middle of your gene
+16. Go 500bp away (further from gene) from the primer you just made, repeat steps 3-8
+      * This is your R0 primer
+18. Finally make two more primers (one forward and one reverse) that will make a product of about 500bp in the middle of your gene
       * These are to check that the deletion was successful
