@@ -1,3 +1,4 @@
+#### Protocol summarized from Anna's notes
 ### Making Primers
 
 1. Create a new Benchling file with your gene of interest and about 2kB on either side
