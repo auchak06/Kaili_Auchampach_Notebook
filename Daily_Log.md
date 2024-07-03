@@ -18,11 +18,17 @@ dNTPs | 0.5µL | 1.5µL
 DMSO | 0.75µL | 2.25µL
 Phusion Polymerase | 0.25µL | 1µL
 
-- US | US | - DS | DS
+* Contents of PCR tubes
+
+-US | US | -DS | DS
 --|--|--|--
+17uL MM1|17uL MM1|17uL MM2|17uL MM2
 3uL AMI022|3uL AMI022|3uL AMI018|3uL AMI018
 3uL AMI023|3uL AMI023|3uL AMI019|3uL AMI019
-2uL gDNA||2uL gDNA
+|2uL gDNA||2uL gDNA
+
+* PCR protocol: AMD_Phusion
+
 #### 6/27/24
 * Redoing SOE PCR w/ 1130 and 3031
 * MM Ingredients
