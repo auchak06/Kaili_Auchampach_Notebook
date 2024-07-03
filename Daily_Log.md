@@ -27,7 +27,10 @@ Phusion Polymerase | 0.25µL | 1µL
 3uL AMI023|3uL AMI023|3uL AMI019|3uL AMI019
 |2uL gDNA||2uL gDNA
 
+
 * PCR protocol: AMD_Phusion
+
+![IMG_2467](https://github.com/auchak06/Kaili_Auchampach_Notebook/assets/133704401/45453ed9-86ae-4ba7-aa1e-6cd6f3080ac8)
 
 #### 6/27/24
 * Redoing SOE PCR w/ 1130 and 3031
