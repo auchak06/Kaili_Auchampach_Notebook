@@ -8,7 +8,7 @@ General strain list for future experiment plotting:
 
 #### 7/3/24
 * Homology arms PCR for MJM3031
-  * Ingredients
+  * Ingredients (2 MM):
 
 Reagent | Volume | x4 Reactions
 ---------|------- |-------------
@@ -16,9 +16,13 @@ Phusion HF Buffer| 5µL | 15µL
 NF H20 | 9.25µL | 28.5µL
 dNTPs | 0.5µL | 1.5µL
 DMSO | 0.75µL | 2.25µL
-Phusion Polymerase | 0.25µL | 4µL
- | 1µL | 4µL
+Phusion Polymerase | 0.25µL | 1µL
 
+- US | US | - DS | DS
+--|--|--|--
+3uL AMI022|3uL AMI022|3uL AMI018|3uL AMI018
+3uL AMI023|3uL AMI023|3uL AMI019|3uL AMI019
+2uL gDNA||2uL gDNA
 #### 6/27/24
 * Redoing SOE PCR w/ 1130 and 3031
 * MM Ingredients
