@@ -10,7 +10,7 @@ General strain list for future experiment plotting:
 * Homology arms PCR for MJM3031
   * Ingredients (2 MM):
 
-Reagent | Volume | x4 Reactions
+Reagent | Volume | x3 Reactions
 ---------|------- |-------------
 Phusion HF Buffer| 5µL | 15µL
 NF H20 | 9.25µL | 28.5µL
