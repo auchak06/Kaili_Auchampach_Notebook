@@ -27,6 +27,7 @@ Phusion Polymerase | 0.25µL | 1µL
 3uL AMI023|3uL AMI023|3uL AMI019|3uL AMI019
 -|2uL gDNA|-|2uL gDNA
 
+  * PCR protocol: KMA_Phusion1
 
 #### 7/3/24
 * Homology arms PCR for MJM3031
