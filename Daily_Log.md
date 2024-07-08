@@ -28,6 +28,10 @@ Phusion Polymerase | 0.25µL | 1µL
 -|2uL gDNA|-|2uL gDNA
 
   * PCR protocol: KMA_Phusion1
+  * Run gel: FAILED
+
+![20240708_KMA-GelDoc_Image(Ethidium Bromide)](https://github.com/auchak06/Kaili_Auchampach_Notebook/assets/133704401/e003e69a-2a68-4305-8d81-c6da0592f45e)
+
 
 #### 7/3/24
 * Homology arms PCR for MJM3031
