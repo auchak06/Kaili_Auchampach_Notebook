@@ -32,7 +32,10 @@ Phusion Polymerase | 0.25µL | 1µL
 
 ![IMG_2467](https://github.com/auchak06/Kaili_Auchampach_Notebook/assets/133704401/45453ed9-86ae-4ba7-aa1e-6cd6f3080ac8)
 
-* Run gel:
+* Run gel: FAILED (likely because of weird protocol)
+
+![20240703_KMA(Ethidium Bromide)](https://github.com/auchak06/Kaili_Auchampach_Notebook/assets/133704401/35fd9e78-9052-41c6-ac98-2491ca3371dd)
+
 
 #### 6/27/24
 * Redoing SOE PCR w/ 1130 and 3031
