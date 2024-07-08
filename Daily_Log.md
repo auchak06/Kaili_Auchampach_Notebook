@@ -6,6 +6,28 @@ General strain list for future experiment plotting:
 * Group B (classic): ES114, ES401
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
+#### 7/8/24
+* Redo homology arms PCR for MJM3031
+  * Ingredients (2 MM):
+
+Reagent | Volume | x3 Reactions
+---------|------- |-------------
+Phusion HF Buffer| 5µL | 15µL
+NF H20 | 9.25µL | 28.5µL
+dNTPs | 0.5µL | 1.5µL
+DMSO | 0.75µL | 2.25µL
+Phusion Polymerase | 0.25µL | 1µL
+
+* Contents of PCR tubes
+
+-US | US | -DS | DS
+--|--|--|--
+17uL MM1|17uL MM1|17uL MM2|17uL MM2
+3uL AMI022|3uL AMI022|3uL AMI018|3uL AMI018
+3uL AMI023|3uL AMI023|3uL AMI019|3uL AMI019
+-|2uL gDNA|-|2uL gDNA
+
+
 #### 7/3/24
 * Homology arms PCR for MJM3031
   * Ingredients (2 MM):
