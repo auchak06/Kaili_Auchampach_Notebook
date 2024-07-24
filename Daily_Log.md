@@ -6,6 +6,9 @@ General strain list for future experiment plotting:
 * Group B (classic): ES114, ES401
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
+#### 7/24/24
+* Motility assay day 1: make TBS for streaking
+
 #### 7/8/24
 * Redo homology arms PCR for MJM3031
   * Ingredients (2 MM):
