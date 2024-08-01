@@ -6,10 +6,20 @@ General strain list for future experiment plotting:
 * Group B (classic): ES114, ES401
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
+#### 8/1/24
+* Motility assay day 2:
+  * Made motility plates
+  * Streaked strains: MJM 1100,1117,1128,1130,1324,3031,3782,5770,5772,5779 (was supposed to also test 2110 but it's freezer drawer couldn't be opened so it will not be included)
+
+#### 7/31/24
+* Motility assay day 1:
+  * Made TBS
+
 #### 7/29/24
 * Motility assay day 3:
   * 2 reps of 1128,1324,3031,1100,3782,1130
   * 3 reps of 5770,5772,5779,1100,3782,1130
+  * Imaged but resuts were unusable. Likely motility plates weren't given enough time to dry
 
 #### 7/28/24
 * Motility assay day 2 again:
