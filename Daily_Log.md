@@ -9,8 +9,8 @@ General strain list for future experiment plotting:
 #### 8/8/26
 * Measured motility plates
 
-Rep1 | Rep2 | Rep3|Rep4|Rep5
----------|------- |-------------|---|--
+-|Rep1 | Rep2 | Rep3|Rep4|Rep5
+-|---------|------- |-------------|---|--
 1100| 18.3 | 17.5|15.3|17.1|18
 1117 | 3.8 | 4.5|||
 1128 | 2.9 | 3.3|||
