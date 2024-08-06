@@ -6,6 +6,22 @@ General strain list for future experiment plotting:
 * Group B (classic): ES114, ES401
 * Nonmotile control: MJM3782 (ES114∆flrA)
 
+#### 8/8/26
+* Measured motility plates
+
+Rep1 | Rep2 | Rep3|Rep4|Rep5
+---------|------- |-------------|---|--
+1100| 18.3 | 17.5|15.3|17.1|18
+1117 | 3.8 | 4.5|||
+1128 | 2.9 | 3.3|||
+1130 | 4.6 | 4.5|4.5|4.7|5.1
+1324 | 2.5| 3.4|||
+3031|3.8|3.7|||
+3782|1.7|1.6|1.6|1.4|1.8
+5770|||2.6|1.7|1.7
+5772|||3.4|2.1|4.2
+5779|||3.4|3.4|3.9
+
 #### 8/1/24
 * Motility assay day 2:
   * Made motility plates
