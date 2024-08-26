@@ -1,0 +1,3 @@
+Kaili Notebook
+
+[Daily Log]()
