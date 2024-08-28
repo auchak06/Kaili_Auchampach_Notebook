@@ -1,6 +1,6 @@
 Kaili Notebook
 
-[Daily Log]()
+[Daily Log](https://github.com/auchak06/Kaili_Auchampach_Notebook/blob/main/Daily_Log.md)
 
 Date Started|Project|Description
 --|--|--
