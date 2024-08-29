@@ -26,7 +26,6 @@ MJM |Strain |P1 | P2  | P3| P4
 3031|FQ_A001|3.38|4.03|2.30|4.19
 3782|ES114∆flrA|1.68|2.04|2.06|1.72
 
-#### Rep 1
 #### Date: 02-01-2024
 Strain |Plate 1 | Plate 2  | Plate 3 
 --|--|--|-- 
@@ -37,7 +36,6 @@ Strain |Plate 1 | Plate 2  | Plate 3
 2110| 0.2  | 0.2  | 0.3  
 3792| 0.1  | 0.1  | 0.1 
 
-#### Rep 2
 #### Date: 02-08-2024
 Strain |Plate 1 | Plate 2  | Plate 3 
 --|--|--|-- 
