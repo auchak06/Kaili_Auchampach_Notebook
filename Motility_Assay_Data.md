@@ -1,5 +1,9 @@
 See compiled motility data [here](https://uwprod-my.sharepoint.com/personal/auchampach_wisc_edu/_layouts/15/doc.aspx?sourcedoc={3a7bab6f-2eb5-4920-9b14-f21341713140}&action=edit)
 
+Goal: Compare motility of group A and B *Vibrio fischeri* using erm-bar deletion to create nonmotile controls (remove flrA gene). remove flrA gene from 
+
+Summary:
+
 #### Date: 08/08/2024
 -|Rep1 | Rep2 | Rep3|Rep4|Rep5
 -|---------|------- |-------------|---|--
