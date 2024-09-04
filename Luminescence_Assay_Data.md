@@ -1,4 +1,4 @@
-See compiled data [here[("\\research.drive.wisc.edu\mmandel\labdata\members\Kaili_Auchampach\Bio152Project\LuminescenceAssays\LuminescenceFigure.jpg")
+See compiled data [here]("\\research.drive.wisc.edu\mmandel\labdata\members\Kaili_Auchampach\Bio152Project\LuminescenceAssays\LuminescenceFigure.jpg")
 
 Goal: Find the difference in luminesence between group A and B strains by looking at lum100 values.
 
