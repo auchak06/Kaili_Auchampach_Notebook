@@ -1,3 +1,7 @@
+Goal: Find the difference in luminesence between group A and B strains by looking at lum100 values.
+
+Summary: No significant difference between groups A and B.
+
 #### 6/14/24
 
 Setup:
