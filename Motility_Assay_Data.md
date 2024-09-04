@@ -1,6 +1,6 @@
 See compiled motility data [here](https://uwprod-my.sharepoint.com/personal/auchampach_wisc_edu/_layouts/15/doc.aspx?sourcedoc={3a7bab6f-2eb5-4920-9b14-f21341713140}&action=edit)
 
-See plate images [here]("\\research.drive.wisc.edu\mmandel\labdata\members\Kaili_Auchampach\Motility_Assay_Images")
+See plate images [here]("\\research.drive.wisc.edu\mmandel\labdata\members\Kaili_Auchampach\Motility_Assay_Images")  (Data from 240420 and 240729 is unusable)
 
 Goal: Compare motility of group A and B *Vibrio fischeri*. Use erm-bar deletion to create nonmotile controls (remove flrA gene).
 
