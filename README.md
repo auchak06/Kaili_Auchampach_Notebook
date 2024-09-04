@@ -1,6 +1,6 @@
 Kaili Notebook
 
-Undergradute student; worked with graduate student Avery Imes from Jan 2024 to Sep 2024. Our main goal was to use erm-bar deletions to create non-motile mutants of A and B *Vibrio fischeri* strains to use as controls. We compared the motility of A and B strains and found little observable differences.
+Undergradute student; worked with graduate student Avery Imes from Jan 2024 to Sep 2024. Our main goal was to use erm-bar deletions to create non-motile mutants of *Vibrio fischeri* strains to use as controls. We compared the motility of A and B strains and found little observable differences.
 
 [Daily Log](https://github.com/auchak06/Kaili_Auchampach_Notebook/blob/main/Daily_Log.md)
 
