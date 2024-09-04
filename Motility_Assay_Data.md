@@ -2,7 +2,7 @@ See compiled motility data [here](https://uwprod-my.sharepoint.com/personal/auch
 
 Goal: Compare motility of group A and B *Vibrio fischeri*. Use erm-bar deletion to create nonmotile controls (remove flrA gene).
 
-Summary: No observable difference between group A and B motility. ES114 consistently showed high motility while 
+Summary: No observable difference between group A and B motility. ES114 consistently showed high motility values averaging around 16mm while all other groups (both A and B) showed low motility ranging from about 2-4mm on average.
 
 #### Date: 08/08/2024
 -|Rep1 | Rep2 | Rep3|Rep4|Rep5
