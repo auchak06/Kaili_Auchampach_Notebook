@@ -1,4 +1,6 @@
-Goal: Use the Mauve program to 
+Goal: Use the Mauve program (Darling Lab) to align strain genomes and identify where common genes are located.
+
+Summary: Was able to get two trials to align. 
 
 ### Date: 2/15/24
 #### Trial 1: BH1.fna + BH2.fna
